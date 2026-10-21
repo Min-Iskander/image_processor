@@ -1,0 +1,12 @@
+cmake-build-debug/
+test_script/
+.clang-format
+.clang-tidy
+.gitlab-ci.yml
+.pre-commit-config.yaml
+run_linter.sh
+out.bmp
+readme.md
+run-clang-format.py
+.tester.json
+.idea
